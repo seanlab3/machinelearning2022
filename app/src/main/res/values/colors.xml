@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00AF00</color>
+    <color name="colorPrimaryDark">#228B22</color>
+    <color name="colorAccent">#00ee1d</color>
+    <color name="control_background">#cc428511</color>
+
+    <color name="colorOtherAccent">#32CD32</color>
+
+    <!--tensorflow -->
+    <color name="semi_transparent">#66000000</color>
+    <color name="tmcolor1">#1967D1</color>
+    <color name="tmcolor2">#D2E3FC</color>
+    <color name="done">#77C7DF</color>
+    <!--main2 -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+
+</resources>

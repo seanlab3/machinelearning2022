@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812189255171",
+    "project_id": "dcca-ac3f7",
+    "storage_bucket": "dcca-ac3f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812189255171:android:a7a198e16b80fb39f17036",
+        "android_client_info": {
+          "package_name": "com.dcca.jane.mmy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812189255171-fkmrev82pbsac3rr7kf2r5e12f6bolte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7VAoGE98SrbIxv7FsYVyPnHTeQl8tek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812189255171-fkmrev82pbsac3rr7kf2r5e12f6bolte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

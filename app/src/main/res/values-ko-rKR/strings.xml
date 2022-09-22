@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">DCCA</string>
+
+    <!--tensorflow-->
+    <string name="picture" translatable="false">Picture</string>
+    <string name="description_info" translatable="false">Info</string>
+    <string name="request_permission" translatable="false">This sample needs camera permission.</string>
+    <string name="camera_error" translatable="false">This device doesn\'t support Camera2 API.</string>
+    <string name="toggle_turn_on" translatable="false">NN:On</string>
+    <string name="toggle_turn_off" translatable="false">NN:Off</string>
+    <string name="toggle" translatable="false">Use NNAPI</string>
+
+    <string name="image_search" translatable="false">Search by Image</string>
+    <string name="image_text" translatable="false">Point the camera at your ingredient and press the button below:</string>
+    <string name="image_capture" translatable="false">Capture</string>
+
+    <!--search results activity-->
+    <string name="search_error" translatable="false">Sorry! No food items in our database match that entry. Please try again - adjust your picture or check your spelling</string>
+
+    <!--weight activity-->
+    <string name="default_weight" translatable="false">100</string>
+    <string name="weight_tv" translatable="false">Weight:</string>
+    <string name="title_tv" translatable="false">Item:</string>
+    <string name="nutrients_title" translatable="false">Nutritional Information:</string>
+    <string name="title_name" translatable="false">Nutrient</string>
+    <string name="title_value" translatable="false">Value</string>
+    <string name="title_unit" translatable="false">Unit</string>
+    <string name="confirm_weight_btn" translatable="false">Confirm Weight/Save Ingredient</string>
+
+
+    <!--main cases-->
+    <string name="case_energy" translatable="false">Energy</string>
+    <string name="case_protein" translatable="false">Protein</string>
+    <string name="case_fat" translatable="false">Total lipid (fat)</string>
+    <string name="case_carbs" translatable="false">Carbohydrate, by difference</string>
+    <string name="case_fiber" translatable="false">Fiber, total dietary</string>
+    <string name="case_sugar" translatable="false">Sugars, total</string>
+    <string name="case_sodium" translatable="false">Sodium, Na</string>
+    <string name="case_saturated_fat" translatable="false">Fatty acids, total saturated</string>
+
+    <!-- main nutrient names -->
+    <string name="name_energy" translatable="false">Calories</string>
+    <string name="name_protein" translatable="false">Protein</string>
+    <string name="name_fat" translatable="false">Fat</string>
+    <string name="name_carbs" translatable="false">Carbohydrates</string>
+    <string name="name_fiber" translatable="false">Fiber</string>
+    <string name="name_sugar" translatable="false">Sugar</string>
+    <string name="name_sodium" translatable="false">Sodium</string>
+    <string name="name_saturated_fat" translatable="false">Saturated Fat</string>
+
+    <string name="test" translatable="false">100</string>
+
+    <!--alternative cases - for potential future use-->
+    <string name="case_water" translatable="false">Water</string>
+    <string name="case_calcium" translatable="false">Calcium, Ca</string>
+    <string name="case_iron" translatable="false">Iron, Fe</string>
+    <string name="case_magnesium" translatable="false">Magnesium, Mg</string>
+    <string name="case_phosphoros" translatable="false">Phosphorus, P</string>
+    <string name="case_potassium" translatable="false">Potassium, K</string>
+    <string name="case_zinc" translatable="false">Zinc, Zn</string>
+    <string name="case_vit_c" translatable="false">Vitamin C, total ascorbic acid</string>
+    <string name="case_vit_b1" translatable="false">Thiamin</string>
+    <string name="case_vit_b2" translatable="false">Riboflavin</string>
+    <string name="case_vit_b3" translatable="false">Niacin</string>
+    <string name="case_vit_b6" translatable="false">Vitamin B-6</string>
+    <string name="case_vit_b9" translatable="false">Folate, DFE</string>
+    <string name="case_vit_b12" translatable="false">Vitamin B-12</string>
+    <string name="case_vit_a" translatable="false">Vitamin A, RAE</string>
+    <string name="case_vit_a_iu" translatable="false">Vitamin A, IU</string>
+    <string name="case_vit_e" translatable="false">Vitamin E(alpha-tocopherol)</string>
+    <string name="case_vit_d" translatable="false">Vitamin D(D2 + D3)</string>
+    <string name="case_vit_d_iu" translatable="false">Vitamin D</string>
+    <string name="case_vit_k" translatable="false">Vitamin K(phylloquinone)</string>
+    <string name="case_monounsaturated_fat" translatable="false">Fatty acids, total monounsaturated</string>
+    <string name="case_polyunsaturated_fat">Fatty acids, total polyunsaturated</string>
+    <string name="case_trans_fat">Fatty acids, total trans</string>
+    <string name="case_cholesterol">Cholesterol</string>
+    <string name="case_caffeine">Caffeine</string>
+
+    <string name="ndbno_apples">09003</string>
+
+    <!--DailyViewActivity strings-->
+    <string name="title_activity_daily_view">DailyViewActivity</string>
+    <string name="daily_view_right_btn">Right button: use to change to next day</string>
+    <string name="daily_view_left_btn">Left button: use to change to previous day</string>
+    <string name="daily_view_no_meals">No meals stored for this day. Click the plus button to add a meal.</string>
+
+    <!--MealTypeFragment strings-->
+    <string name="meal_breakfast">Breakfast</string>
+    <string name="meal_lunch">Lunch</string>
+    <string name="meal_dinner">Dinner</string>
+    <string name="meal_snacks">Snacks</string>
+    <string name="meal_prompt">What type of meal would you like to add?</string>
+
+    <!--MealBuilderActivity strings -->
+    <string name="tv_add_ingredient">Use the field below to add ingredients to your meal:</string>
+    <string name="ingredient_search_prompt">Search for an ingredient here</string>
+    <string name="title_activity_meal_builder">MealBuilderActivity</string>
+    <string name="name_sats">Sats</string>
+    <string name="name_carb">Carbs</string>
+    <string name="name_prot">Prot.</string>
+    <string name="name_sod">Na</string>
+
+
+    <!-- Unit suffixes -->
+    <string name="unit_weight">g</string>
+    <string name="unit_cals">kcal</string>
+    <string name="unit_sodium">mg</string>
+
+    <!--MainActivity strings-->
+    <string name="search_button">Search</string>
+
+    <!--tensorflow -->
+    <string name="activity_name_classification">TFL Classify</string>
+    <string name="activity_name_detection">TFL Detect</string>
+    <string name="activity_name_speech">TFL Speech</string>
+
+    <string name="tflite">tflite</string>
+    <string name="nnapi">NNAPI</string>
+    <string name="threads">Threads:</string>
+
+    <string name="model">Model:</string>
+    <string-array name="models">
+        <item>Quantized</item>
+        <item>Float</item>
+    </string-array>
+
+    <string name="device">Device:</string>
+    <string-array name="devices">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+
+    <!--main2 -->
+    <string name="item1">다이어트</string>
+    <string name="item1_1">Bar/QR</string>
+    <string name="item1_2">Diet</string>
+    <string name="item2_1">Custom Oject Detection</string>
+    <string name="item2_2">한글 인식</string>
+    <string name="item3_1">Custom Image Labeling(Birds)</string>
+    <string name="item3_2">Custom AutoML ImgL(Flower)</string>
+    <string name="item7">예약 내용</string>
+    <string name="item8">예약 하기</string>
+    <string name="maintitle">헬스장 예약</string>
+
+    <!--google machine learning -->
+    <string name="java_entry_title" translatable="false">Run the ML Kit quickstart written in Java</string>
+    <string name="kotlin_entry_title" translatable="false">Run the ML Kit quickstart written in Kotlin</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="permission_camera_rationale" translatable="false">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission" translatable="false">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error" translatable="false">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="desc_camera_source_activity" translatable="false">Vision detectors demo with live camera preview</string>
+    <string name="desc_still_image_activity" translatable="false">Vision detectors demo with a still image</string>
+    <string name="desc_camerax_live_preview_activity" translatable="false">Vision detectors demo with live preview using CameraX. Note that CameraX is only supported on API 21+</string>
+    <string name="desc_cameraxsource_demo_activity" translatable="false">Object detection with custom classifier using ML Kit CameraXSource API. Note that CameraX is only supported on API 21+</string>
+    <string name="download_error" translatable="false">Download error</string>
+    <string name="start_over" translatable="false">Start over</string>
+    <string name="menu_item_settings" translatable="false">Settings</string>
+    <string name="select_image" translatable="false">Select image</string>
+    <string name="custom_object_detection" translatable="false">Custom Object Detector</string>
+
+    <!-- Settings related strings. -->
+    <string name="pref_screen" translatable="false">ps</string>
+    <string name="pref_screen_title_live_preview" translatable="false">Live preview settings</string>
+    <string name="pref_screen_title_still_image" translatable="false">Still image settings</string>
+    <string name="pref_screen_title_camerax_live_preview" translatable="false">CameraX live preview settings</string>
+    <string name="pref_screen_title_cameraxsource_demo" translatable="false">CameraXSource live preview settings</string>
+    <string name="pref_category_info" translatable="false">Detection Info</string>
+    <string name="pref_category_face_detection" translatable="false">Face Detection</string>
+    <string name="pref_category_object_detection" translatable="false">Object Detection / Custom Object Detection</string>
+    <string name="pref_category_automl" translatable="false">AutoML Image Labeling</string>
+    <string name="pref_category_pose_detection" translatable="false">Pose Detection</string>
+    <string name="pref_category_segmentation" translatable="false">Selfie Segmentation</string>
+    <string name="pref_category_text_recognition" translatable="false">Text Recognition</string>
+
+    <!-- Strings for camera settings. -->
+    <string name="pref_category_key_camera" translatable="false">pckc</string>
+    <string name="pref_category_title_camera" translatable="false">Camera</string>
+    <string name="pref_key_rear_camera_preview_size" translatable="false">rcpvs</string>
+    <string name="pref_key_rear_camera_picture_size" translatable="false">rcpts</string>
+    <string name="pref_key_front_camera_preview_size" translatable="false">fcpvs</string>
+    <string name="pref_key_front_camera_picture_size" translatable="false">fcpts</string>
+    <string name="pref_key_camerax_rear_camera_target_resolution" translatable="false">crctas</string>
+    <string name="pref_key_camerax_front_camera_target_resolution" translatable="false">cfctas</string>
+    <string name="pref_key_camera_live_viewport" translatable="false">clv</string>
+    <string name="pref_title_rear_camera_preview_size" translatable="false">Rear camera preview size</string>
+    <string name="pref_title_front_camera_preview_size" translatable="false">Front camera preview size</string>
+    <string name="pref_title_camerax_rear_camera_target_resolution" translatable="false">CameraX rear camera target resolution</string>
+    <string name="pref_title_camerax_front_camera_target_resolution" translatable="false">CameraX front camera target resolution</string>
+    <string name="pref_title_camera_live_viewport" translatable="false">Enable live viewport</string>
+    <string name="pref_summary_camera_live_viewport" translatable="false">Do not block camera preview drawing on detection</string>
+
+    <!-- Strings for info preference. -->
+    <string name="pref_title_info_hide" translatable="false">Hide detection info</string>
+    <string name="pref_key_info_hide" translatable="false">ih</string>
+
+    <!-- Strings for text recognition preference. -->
+    <string name="pref_title_group_recognized_text_in_blocks" translatable="false">Group recognized text in paragraphs</string>
+    <string name="pref_key_group_recognized_text_in_blocks" translatable="false">grtib</string>
+
+    <!-- Strings for object detector enable multiple objects preference. -->
+    <string name="pref_title_object_detector_enable_multiple_objects" translatable="false">Enable multiple objects</string>
+    <string name="pref_key_live_preview_object_detector_enable_multiple_objects" translatable="false">lpodemo</string>
+    <string name="pref_key_still_image_object_detector_enable_multiple_objects" translatable="false">siodemo</string>
+
+    <!-- Strings for object detector enable classification preference. -->
+    <string name="pref_title_object_detector_enable_classification" translatable="false">Enable classification</string>
+    <string name="pref_key_live_preview_object_detector_enable_classification" translatable="false">lpodec</string>
+    <string name="pref_key_still_image_object_detector_enable_classification" translatable="false">siodec</string>
+
+    <!-- Strings for face detector landmark mode preference. -->
+    <string name="pref_title_face_detector_landmark_mode" translatable="false">Landmark mode</string>
+    <string name="pref_key_live_preview_face_detection_landmark_mode" translatable="false">lpfdlm</string>
+    <string name="pref_entries_face_detector_landmark_mode_no_landmarks" translatable="false">No landmarks</string>
+    <string name="pref_entries_face_detector_landmark_mode_all_landmarks" translatable="false">All landmarks</string>
+    <!-- The following entry values must match the ones in FaceDetectorOptions#LandmarkMode -->
+    <string name="pref_entry_values_face_detector_landmark_mode_no_landmarks" translatable="false">1</string>
+    <string name="pref_entry_values_face_detector_landmark_mode_all_landmarks" translatable="false">2</string>
+
+    <!-- Strings for face detector contour mode preference. -->
+    <string name="pref_title_face_detector_contour_mode" translatable="false">Contour mode</string>
+    <string name="pref_key_live_preview_face_detection_contour_mode" translatable="false">lpfdcm</string>
+    <string name="pref_entries_face_detector_contour_mode_no_contours" translatable="false">No contours</string>
+    <string name="pref_entries_face_detector_contour_mode_all_contours" translatable="false">All contours</string>
+    <!-- The following entry values must match the ones in FaceDetectorOptions#ContourMode -->
+    <string name="pref_entry_values_face_detector_contour_mode_no_contours" translatable="false">1</string>
+    <string name="pref_entry_values_face_detector_contour_mode_all_contours" translatable="false">2</string>
+
+    <!-- Strings for face detector classification mode preference. -->
+    <string name="pref_title_face_detector_classification_mode" translatable="false">Classification mode</string>
+    <string name="pref_key_live_preview_face_detection_classification_mode" translatable="false">lpfdcfm</string>
+    <string name="pref_entries_face_detector_classification_mode_no_classifications" translatable="false">No classifications</string>
+    <string name="pref_entries_face_detector_classification_mode_all_classifications" translatable="false">All classifications</string>
+    <!-- The following entry values must match the ones in FaceDetectorOptions#ClassificationMode -->
+    <string name="pref_entry_values_face_detector_classification_mode_no_classifications" translatable="false">1</string>
+    <string name="pref_entry_values_face_detector_classification_mode_all_classifications" translatable="false">2</string>
+
+    <!-- Strings for face detector performance mode preference. -->
+    <string name="pref_title_face_detector_performance_mode" translatable="false">Performance mode</string>
+    <string name="pref_key_live_preview_face_detection_performance_mode" translatable="false">lpfdpm</string>
+    <string name="pref_entries_face_detector_performance_mode_fast" translatable="false">Fast</string>
+    <string name="pref_entries_face_detector_performance_mode_accurate" translatable="false">Accurate</string>
+    <!-- The following entry values must match the ones in FaceDetectorOptions#PerformanceMode -->
+    <string name="pref_entry_values_face_detector_performance_mode_fast" translatable="false">1</string>
+    <string name="pref_entry_values_face_detector_performance_mode_accurate" translatable="false">2</string>
+
+    <!-- Strings for face detector face tracking preference. -->
+    <string name="pref_title_face_detector_face_tracking" translatable="false">Face tracking</string>
+    <string name="pref_key_live_preview_face_detection_face_tracking" translatable="false">lpfdft</string>
+
+    <!-- Strings for face detector min face size preference. -->
+    <string name="pref_title_face_detector_min_face_size" translatable="false">Minimum face size</string>
+    <string name="pref_key_live_preview_face_detection_min_face_size" translatable="false">lpfdmfs</string>
+    <string name="pref_dialog_message_face_detector_min_face_size" translatable="false">Proportion of the head width to the image width, and the valid value range is [0.0, 1.0]</string>
+    <string name="pref_toast_invalid_min_face_size" translatable="false">Minimum face size must be a float value and in the range [0.0, 1.0]</string>
+
+    <!-- Strings for pose detector performance mode preference. -->
+    <string name="pref_title_pose_detector_performance_mode" translatable="false">Performance mode</string>
+    <string name="pref_key_live_preview_pose_detection_performance_mode" translatable="false">lppdpm</string>
+    <string name="pref_key_still_image_pose_detection_performance_mode" translatable="false">sipdpm</string>
+    <string name="pref_entries_pose_detector_performance_mode_fast" translatable="false">Fast</string>
+    <string name="pref_entries_pose_detector_performance_mode_accurate" translatable="false">Accurate</string>
+    <string name="pref_entry_values_pose_detector_performance_mode_fast" translatable="false">1</string>
+    <string name="pref_entry_values_pose_detector_performance_mode_accurate" translatable="false">2</string>
+
+    <!-- Strings for pose detector showInFrameLikelihood preference. -->
+    <string name="pref_title_pose_detector_show_in_frame_likelihood" translatable="false">Show in-frame likelihood</string>
+    <string name="pref_key_live_preview_pose_detector_show_in_frame_likelihood" translatable="false">lppdsifl</string>
+    <string name="pref_key_still_image_pose_detector_show_in_frame_likelihood" translatable="false">sipdsifl</string>
+
+    <!-- Strings for pose detector z value visualization preference. -->
+    <string name="pref_title_pose_detector_visualize_z" translatable="false">Visualize z value</string>
+    <string name="pref_key_pose_detector_visualize_z" translatable="false">pdvz</string>
+    <string name="pref_title_pose_detector_rescale_z" translatable="false">Rescale z value for visualization</string>
+    <string name="pref_key_pose_detector_rescale_z" translatable="false">pdrz</string>
+
+    <!-- Strings for pose classification preference. -->
+    <string name="pref_title_pose_detector_run_classification" translatable="false">Run Classification</string>
+    <string name="pref_key_pose_detector_run_classification" translatable="false">pdrc</string>
+    <string name="pref_summary_pose_detector_run_classification" translatable="false">Classify squat and pushup poses. Count reps in streaming mode. To get the best classification results based on the current sample data, face the camera side way and make sure your full body is in the frame.</string>
+
+    <!-- Strings for segmentation preference. -->
+    <string name="pref_title_segmentation_raw_size_mask" translatable="false">Enable raw size mask</string>
+    <string name="pref_key_segmentation_raw_size_mask" translatable="false">srsm</string>
+
+
+</resources>
