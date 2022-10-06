@@ -3,4 +3,24 @@ This Android app was built for the Final Year Project of my B.Eng in Dublin City
 
 Please excuse the code quality: my project was based on the apps' functionality and on my research, so code quality lapsed in the rush to complete the project. It will be cleaned up eventually!
 
+# Steps to Contribute in repository :
+
+## Fork this repo (button on top)
+### Clone on your local machine<br>
+`git clone https://github.com/seanlab3/machinelearning2022.git`
+
+### Navigate to project directory.
+`cd machinelearning2022`
+### Create a new Branch
+`git checkout -b my-new-branch`
+### Add your contribution
+`git add .`
+### Commit your changes.
+`git commit -m "Relevant message"`
+### Then push
+`git push origin my-new-branch`<br>
+Create a new pull request from your forked repository, and you are DONE!
+<br>
+
+
 Copyright © 2019 LukeScales
